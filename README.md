@@ -1,11 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulrahman
-===================================================================================================================================
+Hi 👋 My name is Abdulrahman
+============================
 
-Computer engeneering student and web developer
-----------------------------------------------
+Computer engineering student && Web devloper.
+---------------------------------------------
 
-*   🌍  I'm based in Mukalla-Yemen
+*   🌍  I'm based in Yemen, Mukalla
 *   ✉️  You can contact me at [d7mii.b@gmail.com](mailto:d7mii.b@gmail.com)
+*   🚀  I'm currently working on [final project for graduation](http://github.com/d7mi-b/genertingTimeTable)
+*   🧠  I'm learning more about React.js
 
 ### Skills 
 <p align="left">
@@ -21,9 +23,10 @@ Computer engeneering student and web developer
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
                     
+
 ### Socials
                   
-<p align="left"> <a href="https://www.codepen.io/d7mii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/d7mi-b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdulrahman-bahyan-3448431a6/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/d7mii_b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.codepen.io/d7mii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/d7mi-b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/d7mi.b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdulrahman-bahyan-3448431a6/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/d7mii_b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -32,5 +35,3 @@ Computer engeneering student and web developer
 <a href="http://www.github.com/d7mi-b"><img src="https://github-readme-stats.vercel.app/api?username=d7mi-b&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="d7mi-b's GitHub stats" /></a>
 
 <a href="http://www.github.com/d7mi-b"><img src="https://github-readme-streak-stats.herokuapp.com/?user=d7mi-b&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/d7mi-b" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d7mi-b&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
