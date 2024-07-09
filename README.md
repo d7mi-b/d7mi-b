@@ -1,13 +1,13 @@
 Hi 👋 My name is Abdulrahman
 ============================
 
-Computer engineering student && Web devloper.
+Computer engineer && Web devloper.
 ---------------------------------------------
 
 *   🌍  I'm based in Yemen, Mukalla
 *   ✉️  You can contact me at [d7mii.b@gmail.com](mailto:d7mii.b@gmail.com)
-*   🚀  I'm currently working on [final project for graduation](http://github.com/d7mi-b/genertingTimeTable)
-*   🧠  I'm learning more about React.js
+*   🚀  I'm currently working on some projects😉
+*   🧠  I'm learning more about web development
 
 ### Skills 
 <p align="left">
